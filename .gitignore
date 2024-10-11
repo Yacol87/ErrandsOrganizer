@@ -1,0 +1,14 @@
+# Ignore Visual Studio temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+/.vs/ErrandsApp/FileContentIndex
